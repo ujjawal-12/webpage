@@ -1,0 +1,114 @@
+html {
+  scroll-behavior: smooth;
+}
+
+div.carousel-inner {
+  height: 700px;
+}
+
+a span#header {
+  font-size: 25px;
+}
+
+a span#head {
+  color: red;
+}
+
+div.crosel {
+  background-color: black;
+}
+
+div#three {
+  height: 100%;
+  width: 100%;
+  background-color: #f7efef;
+}
+
+div#three div.sec img {
+  height: 600px;
+  width: 100%;
+}
+
+div#three div.sec div.carousel-caption h1#hild {
+  color: black;
+  top: 0;
+  right: 20px;
+}
+
+div#three div.sec div.carousel-caption h3#c-hild {
+  color: black;
+  text-align: justify;
+}
+
+ul.gallery_box {
+  padding: 0;
+  margin: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+ul.gallery_box li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 33.30%;
+  overflow: hidden;
+}
+
+ul.gallery_box li img {
+  -webkit-transition: -webkit-transform 0.5s ease;
+  transition: -webkit-transform 0.5s ease;
+  transition: transform 0.5s ease;
+  transition: transform 0.5s ease, -webkit-transform 0.5s ease;
+}
+
+div#block {
+  height: 50px;
+  background-color: black;
+}
+
+li:hover img {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
+footer {
+  height: 170px;
+  background-color: black;
+}
+
+footer div.social img {
+  width: 50px;
+  height: 50px;
+}
+
+@media only screen and (max-width: 768px) {
+  div.crosel {
+    height: 320px;
+  }
+  div.tag {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+  div.tag div.ear-bot {
+    margin-right: 10px;
+  }
+  ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+/*# sourceMappingURL=home.css.map */

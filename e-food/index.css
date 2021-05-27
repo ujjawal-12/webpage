@@ -1,0 +1,55 @@
+.nav-cnt{
+  margin-left: 25px;
+}
+.nav-item{margin: 5px;}
+.sign-up{width: 50%;}
+div.sign-up  ul{
+  float: right;
+}
+
+
+@media screen and (min-width: 768px){
+.carousel-indicators {
+    bottom: 20px;
+}
+}
+.carousel-indicators li {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin: 1px;
+  text-indent: -999px;
+  cursor: pointer;
+  background-color: #0009;
+  background-color: rgba(0,0,0,0);
+  border: 1px solid #fff;
+  border-radius: 10px;
+}
+#section4 {
+  padding-top: 50px;
+  height: 500px;
+  color: #fff;
+  background-color: #193040;
+}
+.glyphicon {
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-family: "Glyphicons Halflings";
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.last-one{margin-bottom: 50px;}
+a {
+ 
+  background-color: transparent;
+}
+footer{height: 100px; padding-top: 30px;}
+@media (min-width: 768px){
+.col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9 {
+    float: left;
+}
+}

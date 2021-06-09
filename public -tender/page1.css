@@ -1,0 +1,133 @@
+
+.navbar1 {
+  font-size: 20px;
+  background-color: #2a79ea;
+  /* padding: 10px; */
+  position: sticky !important;
+  width: 100% !important;
+  font-family: Bahnschrift;
+}
+.text-blue {
+  color: blue;
+}
+.faq-face {
+  width: 10%;
+}
+
+.rounded-circle {
+  border-radius: 50% !important;
+}
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  color: #212529;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+ .card-deck-custom {
+  padding: 0 260px;
+}
+ .card-custom {
+  width: 472px;
+  height: 719px;
+  transition: height .35s;
+}
+ .card-custom-container {
+  padding: 20px;
+}
+ .pad {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+ .card-img-custom {
+  width: 180px;
+  height: 125px;
+  padding: 10px 0;
+}
+ .light-text {
+  font-size: 15px;
+  opacity: 0.6;
+}
+ .light-text {
+  font-size: 15px;
+  opacity: 0.6;
+}
+ .pad {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#chk li {
+  margin: 2px;
+  text-align: left;
+}
+
+ .card li {
+  font-size: 17px;
+}
+.btn-success {
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+.grayout {
+  opacity: 0.5;
+}
+ .card2 {
+  border-color: green;
+}
+ .center-content {
+  align-content: center;
+  text-align: center;
+}
+ .div-payment p {
+  font-size: 16px;
+}
+ .pixel-img {
+  height: 28px;
+  margin: 10px;
+}
+ .div-myinfo {
+  background-image: linear-gradient(#f7f7f7,white);
+  padding: 40px 0;
+}
+.myinfo-content {
+  display: flex;
+  justify-content: center;
+}
+ .center-content {
+  align-content: center;
+  text-align: center;
+}
+blockquote {
+  border: none;
+  margin-bottom: -30px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote p {
+  font-size: 23px;
+}
+ .faq-ques {
+  display: flex;
+}
+.justify-content-center {
+  -ms-flex-pack: center!important;
+  justify-content: center!important;
+}
+ .faq-ques p {
+  font-size: 15px;
+}
+.faq-ques div {
+  margin: 15px;
+}

@@ -1,0 +1,51 @@
+.navbar1 {
+  font-size: 20px;
+  background-color: #2a79ea;
+  /* padding: 10px; */
+  position: sticky !important;
+  width: 100% !important;
+  font-family: Bahnschrift;
+}
+
+.tab-search-div {
+  background-color: #5DBCD2;
+  padding: 0 0 15px 0;
+}
+.search_nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #5DBCD2;
+}
+
+.center-content {
+  align-content: center;
+  text-align: center;
+}
+.search_nav li {
+  display: inline-flex;
+}
+.tab-search-div a {
+  color: white;
+}
+
+li a {
+  display: block;
+  color: rgba(0,0,0,0.1);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.form-custom input, select {
+    border-radius: 0px;
+    margin: 1px;
+    height: 50px;
+}
+.form-custom input, select {
+  border-radius: 0px;
+  margin: 1px;
+  height: 50px;
+}
